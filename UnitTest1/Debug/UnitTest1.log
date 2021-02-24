@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+D:\University\Algoritmizaciya and programyvanya\PR 7.1.1.2\UnitTest1\UnitTest1.cpp(19,1): error C2660: 'SumRows': function does not take 4 arguments
+D:\University\Algoritmizaciya and programyvanya\PR 7.1.1.2\PR 7.1.1.2\Source.cpp(80,6): message : see declaration of 'SumRows'
+D:\University\Algoritmizaciya and programyvanya\PR 7.1.1.2\UnitTest1\UnitTest1.cpp(21,1): error C2665: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': none of the 8 overloads could convert all the argument types
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(187,15): message : could be 'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const wchar_t *,const wchar_t *,bool,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(168,15): message : or       'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const char *,const char *,bool,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)'
+D:\University\Algoritmizaciya and programyvanya\PR 7.1.1.2\UnitTest1\UnitTest1.cpp(21,1): message : while trying to match the argument list '(overloaded-function, int)'
